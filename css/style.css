@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'SF_Wonder_Comic_Bold';
+  src: url('../fonts/SF_Wonder_Comic_Bold.ttf')  format('truetype') 
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #f5e675;
+  /* Background pattern from subtlepatterns.com */
+  background:  url('../img/green_cup.png') repeat;
+}
+
+a {
+  color: #996042;
+  text-decoration: none;
+}
+
+.nav a {
+  font-size: 1.3em;
+}
+.nav a:hover {
+  font-size: 1.6em;
+}
+
+h1 {
+  font-size: 1.750em;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-size: 1.500em;
+  color: #F4B0AE;
+}
+
+.btn {
+  color: #f5e675;
+  background: #996042;
+  padding: 15px 30px;
+  margin: 40px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: #F4B0AE;
+  color: #996042;
+}
+
+ul.nav {
+  margin: 120px 0 0 0;
+  list-style: none;
+  float: right;
+}
+
+ul.nav li {
+  float: left;
+  margin-right: 40px;
+}
+
+ul.nav li a {
+  color: #F4B0AE;
+  text-shadow: 7px 5px 10px #996042;
+
+}
+
+#company-title {
+  font-family: 'SF_Wonder_Comic_Bold';
+  color: #f5e675;
+  font-size: 3.7em;
+  text-shadow: 7px 5px 10px #996042; 
+  text-align: center;
+  box-shadow: 0 0 20px 5px #F4B0AE;
+  border-radius: 50%;
+  padding-bottom: 10px;
+}
+
+#intro {
+  margin: 40px 0 75px 0;
+}
+
+#new-donuts img {
+  border: 8px solid #f5e675;
+  margin: 0px 0 20px 0;
+  height: auto;
+  width: 90%;
+}
+
+#featured-donut p {
+  width: 87%;
+}
+
+.grid_7 p {
+  width: 75%;
+}
+
+#featured-donut img {
+  border: 8px solid #f5e675;
+  height: 87%;
+}
+
+#copyright {
+  color: #F4B0AE;
+  border-top: 8px solid #f5e675;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
