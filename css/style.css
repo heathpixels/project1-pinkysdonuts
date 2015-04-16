@@ -93,6 +93,12 @@ ul.nav li a {
   width: 75%;
 }
 
+.grid_4 img {
+  width: 284px;
+  height: auto;
+  padding: 20px 0px;
+}
+
 #featured-donut img {
   border: 8px solid #f5e675;
   height: 87%;
