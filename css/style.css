@@ -81,7 +81,6 @@ ul.nav li a {
 #new-donuts img {
   border: 8px solid #f5e675;
   margin: 0px 0 20px 0;
-  height: auto;
   width: 90%;
 }
 
@@ -95,13 +94,11 @@ ul.nav li a {
 
 .grid_4 img {
   width: 284px;
-  height: auto;
   padding: 20px 0px;
 }
 
 #featured-donut img {
   border: 8px solid #f5e675;
-  height: 87%;
 }
 
 #copyright {
